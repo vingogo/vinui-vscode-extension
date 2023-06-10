@@ -1,8 +1,8 @@
 {
 	"name": "vinui-vscode-extension",
 	"private": true,
-	"displayName": "vinui-vscode-extension",
-	"description": "vinui extension for vscode",
+	"displayName": "VinUI Vscode Extension",
+	"description": "VinUI extension for vscode",
 	"version": "0.1.0",
 	"icon": "src/vingogo.png",
 	"engines": {
@@ -15,7 +15,7 @@
 	"categories": [
 		"Other"
 	],
-	"publisher": "vinui",
+	"publisher": "Alvin-LM",
 	"activationEvents": [
 		"onLanguage:vue",
 		"onLanguage:javascript",
